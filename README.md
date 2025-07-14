@@ -1,1 +1,0 @@
-# apsit-exp2
